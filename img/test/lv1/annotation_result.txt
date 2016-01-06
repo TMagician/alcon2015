@@ -1,0 +1,780 @@
+%
+ASICS/lv1_ASICS_0001.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0002.jpg
+1
+ASICS 244 251 275 138
+% recall 92.6577 precision 92.6577
+%
+ASICS/lv1_ASICS_0003.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0004.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0005.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0006.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0007.jpg
+3
+ASICS 434 279 77 79
+ASICS 433 275 79 84
+ASICS 433 275 79 84
+% recall 93.7951 precision 91.5825
+%
+ASICS/lv1_ASICS_0008.jpg
+1
+ASICS 394 251 107 115
+% recall 93.2197 precision 93.2197
+%
+ASICS/lv1_ASICS_0009.jpg
+1
+ASICS 364 293 51 51
+% recall 94.3759 precision 94.3759
+%
+ASICS/lv1_ASICS_0010.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0011.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0012.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0013.jpg
+2
+ASICS 203 322 119 110
+ASICS 203 322 118 109
+% recall 48.7124 precision 96.5833
+%
+ASICS/lv1_ASICS_0014.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0015.jpg
+3
+ASICS 489 319 72 64
+ASICS 491 318 72 66
+ASICS 491 318 72 66
+% recall 95.6873 precision 93.9679
+%
+ASICS/lv1_ASICS_0016.jpg
+4
+ASICS 244 203 44 45
+ASICS 244 203 44 48
+ASICS 244 203 45 48
+ASICS 459 131 35 50
+% recall 94.1939 precision 92.4427
+%
+ASICS/lv1_ASICS_0017.jpg
+2
+ASICS 223 131 249 282
+ASICS 222 131 251 283
+% recall 96.6333 precision 96.4677
+%
+ASICS/lv1_ASICS_0018.jpg
+1
+ASICS 202 213 108 101
+% recall 94.3885 precision 94.3885
+%
+ASICS/lv1_ASICS_0019.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0020.jpg
+2
+ASICS 236 221 279 151
+ASICS 236 221 279 151
+% recall 92.433 precision 92.433
+%
+ASICS/lv1_ASICS_0021.jpg
+1
+ASICS 191 347 78 85
+% recall 96.2896 precision 96.2896
+%
+ASICS/lv1_ASICS_0022.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0023.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0024.jpg
+2
+ASICS 245 299 119 102
+ASICS 245 299 120 103
+% recall 93.1553 precision 94.0072
+%
+ASICS/lv1_ASICS_0025.jpg
+2
+ASICS 86 197 178 187
+ASICS 86 196 178 189
+% recall 98.3477 precision 97.8273
+%
+ASICS/lv1_ASICS_0026.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0027.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0028.jpg
+0
+% recall 0 precision 0
+%
+ASICS/lv1_ASICS_0029.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0001.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0002.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0003.jpg
+1
+FILA 89 322 81 85
+% recall 91.1126 precision 91.1126
+%
+FILA/lv1_FILA_0004.jpg
+3
+FILA 359 318 48 49
+FILA 359 318 48 49
+FILA 359 318 48 49
+% recall 92.2307 precision 92.2307
+%
+FILA/lv1_FILA_0005.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0006.jpg
+3
+FILA 220 297 82 84
+FILA 220 297 82 84
+FILA 220 297 82 84
+% recall 89.4309 precision 89.4309
+%
+FILA/lv1_FILA_0007.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0008.jpg
+3
+FILA 86 154 73 82
+FILA 86 154 73 82
+FILA 86 154 73 82
+% recall 89.087 precision 89.087
+%
+FILA/lv1_FILA_0009.jpg
+3
+FILA 477 427 80 81
+FILA 477 427 80 81
+FILA 477 427 80 81
+% recall 90.8317 precision 90.8317
+%
+FILA/lv1_FILA_0010.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0011.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0012.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0013.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0014.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0015.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0016.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0017.jpg
+1
+FILA 362 255 124 127
+% recall 93.88 precision 93.88
+%
+FILA/lv1_FILA_0018.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0019.jpg
+2
+FILA 276 360 52 58
+FILA 276 360 52 58
+% recall 92.955 precision 92.955
+%
+FILA/lv1_FILA_0020.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0021.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0022.jpg
+2
+FILA 238 244 97 97
+FILA 238 243 99 99
+% recall 93.288 precision 92.3134
+%
+FILA/lv1_FILA_0023.jpg
+0
+% recall 0 precision 0
+%
+FILA/lv1_FILA_0024.jpg
+1
+FILA 287 255 173 183
+% recall 74.3612 precision 74.3612
+%
+FILA/lv1_FILA_0025.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0001.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0002.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0003.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0004.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0005.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0006.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0007.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0008.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0009.jpg
+1
+LECOQ 268 291 39 58
+% recall 31.1431 precision 93.4294
+%
+LECOQ/lv1_LECOQ_0010.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0011.jpg
+0
+% recall 0 precision 0
+%
+LECOQ/lv1_LECOQ_0012.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0001.jpg
+4
+MIZUNO 355 232 232 92
+MIZUNO 355 232 232 92
+MIZUNO 354 232 233 92
+MIZUNO 339 216 263 125
+% recall 79.0058 precision 71.9932
+%
+MIZUNO/lv1_MIZUNO_0002.jpg
+1
+MIZUNO 150 209 525 295
+% recall 86.9062 precision 86.9062
+%
+MIZUNO/lv1_MIZUNO_0003.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0004.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0005.jpg
+1
+MIZUNO 185 97 101 42
+% recall 66.2666 precision 66.2666
+%
+MIZUNO/lv1_MIZUNO_0006.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0007.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0008.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0009.jpg
+4
+MIZUNO 371 417 244 89
+MIZUNO 365 406 258 114
+MIZUNO 371 418 244 88
+MIZUNO 365 407 258 113
+% recall 73.2286 precision 85.687
+%
+MIZUNO/lv1_MIZUNO_0010.jpg
+2
+MIZUNO 119 196 528 216
+MIZUNO 119 196 528 216
+% recall 89.9726 precision 89.9726
+%
+MIZUNO/lv1_MIZUNO_0011.jpg
+2
+MIZUNO 338 248 223 83
+MIZUNO 338 248 223 80
+% recall 66.047 precision 64.8533
+%
+MIZUNO/lv1_MIZUNO_0012.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0013.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0014.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0015.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0016.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0017.jpg
+2
+MIZUNO 366 294 154 65
+MIZUNO 366 294 154 65
+% recall 98.4615 precision 98.4615
+%
+MIZUNO/lv1_MIZUNO_0018.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0019.jpg
+2
+MIZUNO 318 293 188 74
+MIZUNO 318 293 188 74
+% recall 85.0345 precision 85.0345
+%
+MIZUNO/lv1_MIZUNO_0020.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0021.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0022.jpg
+0
+% recall 0 precision 0
+%
+MIZUNO/lv1_MIZUNO_0023.jpg
+3
+MIZUNO 306 212 80 50
+MIZUNO 306 212 80 50
+MIZUNO 306 211 80 51
+% recall 86.625 precision 86.0588
+%
+NB/lv1_NB_0001.jpg
+1
+NB 391 269 247 130
+% recall 86.8037 precision 86.8037
+%
+NB/lv1_NB_0002.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0003.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0004.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0005.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0006.jpg
+1
+NB 331 282 79 48
+% recall 89.5562 precision 89.5562
+%
+NB/lv1_NB_0007.jpg
+1
+NB 496 222 198 116
+% recall 85.1965 precision 85.1965
+%
+NB/lv1_NB_0008.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0009.jpg
+1
+NB 246 301 144 83
+% recall 88.078 precision 88.078
+%
+NB/lv1_NB_0010.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0011.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0012.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0013.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0014.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0015.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0016.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0017.jpg
+2
+NB 317 245 181 124
+NB 317 245 181 124
+% recall 97.0657 precision 97.0657
+%
+NB/lv1_NB_0018.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0019.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0020.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0021.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0022.jpg
+0
+% recall 0 precision 0
+%
+NB/lv1_NB_0023.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0001.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0002.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0003.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0004.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0005.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0006.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0007.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0008.jpg
+3
+SHUN 251 260 157 89
+SHUN 251 260 157 89
+SHUN 251 261 157 88
+% recall 89.337 precision 88.6982
+%
+SHUN/lv1_SHUN_0009.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0010.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0011.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0012.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0013.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0014.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0015.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0016.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0017.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0018.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0019.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0020.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0021.jpg
+0
+% recall 0 precision 0
+%
+SHUN/lv1_SHUN_0022.jpg
+0
+% recall 0 precision 0
+%
+UA/lv1_UA_0001.jpg
+0
+% recall 0 precision 0
+%
+UA/lv1_UA_0002.jpg
+0
+% recall 0 precision 0
+%
+UA/lv1_UA_0003.jpg
+1
+UA 313 263 179 101
+% recall 98.4695 precision 98.4695
+%
+UA/lv1_UA_0004.jpg
+3
+UA 310 251 153 93
+UA 311 251 152 92
+UA 311 251 151 92
+% recall 90.4913 precision 91.7514
+%
+UA/lv1_UA_0005.jpg
+2
+UA 177 223 335 182
+UA 177 223 335 182
+% recall 99.1562 precision 99.1562
+%
+UA/lv1_UA_0006.jpg
+2
+UA 292 223 313 184
+UA 292 223 313 184
+% recall 97.1124 precision 97.1124
+%
+UA/lv1_UA_0007.jpg
+1
+UA 260 246 159 119
+% recall 80.5771 precision 80.5771
+%
+UA/lv1_UA_0008.jpg
+1
+UA 105 294 137 80
+% recall 96.7883 precision 96.7883
+%
+UA/lv1_UA_0009.jpg
+2
+UA 337 267 142 75
+UA 337 267 142 75
+% recall 96.6479 precision 96.6479
+%
+UA/lv1_UA_0010.jpg
+6
+UA 547 312 99 66
+UA 158 291 111 67
+UA 547 312 99 67
+UA 158 292 111 66
+UA 546 312 101 67
+UA 158 292 111 66
+% recall 62.6285 precision 92.9301
+%
+UA/lv1_UA_0011.jpg
+1
+FILA 456 353 61 81
+% recall 0 precision 0
+%
+UA/lv1_UA_0012.jpg
+0
+% recall 0 precision 0
+%
+UA/lv1_UA_0013.jpg
+1
+UA 197 176 383 221
+% recall 99.032 precision 99.032
+%
+YONEX/lv1_YONEX_0001.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0002.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0003.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0004.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0005.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0006.jpg
+2
+YONEX 250 279 224 123
+YONEX 250 279 224 123
+% recall 89.8065 precision 89.8065
+%
+YONEX/lv1_YONEX_0007.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0008.jpg
+3
+YONEX 358 294 60 33
+YONEX 358 294 60 33
+YONEX 358 294 60 33
+% recall 95.1613 precision 95.1613
+%
+YONEX/lv1_YONEX_0009.jpg
+3
+YONEX 330 275 188 103
+YONEX 330 275 187 102
+YONEX 330 275 187 102
+% recall 89.504 precision 89.0572
+%
+YONEX/lv1_YONEX_0010.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0011.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0012.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0013.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0014.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0015.jpg
+0
+% recall 0 precision 0
+%
+YONEX/lv1_YONEX_0016.jpg
+6
+YONEX 261 265 213 123
+YONEX 250 252 224 142
+YONEX 262 265 212 123
+YONEX 249 251 225 144
+YONEX 262 265 212 123
+YONEX 249 251 225 144
+% recall 74.6699 precision 82.3508
+%
+YONEX/lv1_YONEX_0017.jpg
+0
+% recall 0 precision 0
+%
+MIX/lv1_MIX_0001.jpg
+0
+% recall 0 precision 0
+%
+MIX/lv1_MIX_0002.jpg
+0
+% recall 0 precision 0
+%
+MIX/lv1_MIX_0003.jpg
+0
+% recall 0 precision 0
+% 
+% --> total recall    24.3162
+% --> total precision 89.0691
